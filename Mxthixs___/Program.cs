@@ -20,6 +20,8 @@ namespace Mxthixs___
             {
                 Console.WriteLine("Eres mayor de edad.");
             }
+            Console.Write("\nIngresa un número: ");
+            int numero = int.Parse(Console.ReadLine());
         }
     }
 }
