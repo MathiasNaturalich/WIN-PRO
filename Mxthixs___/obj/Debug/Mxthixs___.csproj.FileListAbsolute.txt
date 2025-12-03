@@ -1,0 +1,7 @@
+C:\Users\WIN-PRO\source\repos\Mxthixs___\Mxthixs___\bin\Debug\Mxthixs___.exe.config
+C:\Users\WIN-PRO\source\repos\Mxthixs___\Mxthixs___\bin\Debug\Mxthixs___.exe
+C:\Users\WIN-PRO\source\repos\Mxthixs___\Mxthixs___\bin\Debug\Mxthixs___.pdb
+C:\Users\WIN-PRO\source\repos\Mxthixs___\Mxthixs___\obj\Debug\Mxthixs___.csproj.AssemblyReference.cache
+C:\Users\WIN-PRO\source\repos\Mxthixs___\Mxthixs___\obj\Debug\Mxthixs___.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\source\repos\Mxthixs___\Mxthixs___\obj\Debug\Mxthixs___.exe
+C:\Users\WIN-PRO\source\repos\Mxthixs___\Mxthixs___\obj\Debug\Mxthixs___.pdb
