@@ -12,9 +12,14 @@ namespace Mxthixs___
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("=== SISTEMA DE CONDICIONALES ===");
+
             Console.Write("\nIngresa tu edad: ");
             int edad = int.Parse(Console.ReadLine());
 
+            if (edad >= 18)  // Condicional simple
+            {
+                Console.WriteLine("Eres mayor de edad.");
+            }
         }
     }
 }
