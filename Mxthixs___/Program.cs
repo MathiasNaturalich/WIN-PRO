@@ -11,7 +11,10 @@ namespace Mxthixs___
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Asigne un numero aleatorio");
+            Console.WriteLine("=== SISTEMA DE CONDICIONALES ===");
+            Console.Write("\nIngresa tu edad: ");
+            int edad = int.Parse(Console.ReadLine());
+
         }
     }
 }
